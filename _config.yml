@@ -20,7 +20,7 @@ title                    : "Robin's CODING"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "CHOE JAEHYUN (ROBIN) "
-description              : "An amazing website."
+description              : "coding room"
 url                      : "https://Jaehyun-C.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
